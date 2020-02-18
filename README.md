@@ -7,6 +7,6 @@ To report a new issue or feature request, go here... [New issue](https://github.
 
 Your feedback is gratefully received.
 
-If you want to support this project, consider downloading and installing [Brave - the privacy focused browser)[https://brave.com/com089). That referral link will earn me a little, but the recommendation is genuine - it's an awesome new browser.
+If you want to support this project, consider downloading and installing [Brave - the privacy focused browser](https://brave.com/com089). That referral link will earn me a little, but the recommendation is genuine - it's an awesome new browser.
 
 
