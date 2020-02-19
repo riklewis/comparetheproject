@@ -9,4 +9,13 @@ Your feedback is gratefully received.
 
 If you want to support this project, consider downloading and installing [Brave - the privacy focused browser](https://brave.com/com089). That referral link will earn me a little, but the recommendation is genuine - it's an awesome new browser.
 
+## changelog
 
+### v1.0 - First Release - 4th February 2020
+
+### v1.1 - New Features Added - 19th February 2020
+* Added option to exclude Project records (eg. PRJ/PRI/PRT)
+* Added 'Download CSV' summary action
+* Added 'Print everything' action
+* Added 'Show/hide unchanged' action with setting to control default
+* Added 'Filter by entity' action with setting to control auto-clearing
