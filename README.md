@@ -11,9 +11,11 @@ If you want to support this project, consider downloading and installing [Brave 
 
 ## changelog
 
-### v1.0 - First Release - 4th February 2020
+### v1.0 - First Release
+4th February 2020
 
-### v1.1 - New Features Added - 19th February 2020
+### v1.1 - New Features Added
+19th February 2020
 * Added option to exclude Project records (eg. PRJ/PRI/PRT)
 * Added 'Download CSV' summary action
 * Added 'Print everything' action
