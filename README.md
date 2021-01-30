@@ -11,8 +11,17 @@ If you want to support this project, consider downloading and installing [Brave 
 
 ## changelog
 
-### v1.0 - First Release
-_4th February 2020_
+### v1.2 - New Features and Fixes
+_30th January 2021_
+* Updated dependencies in the build pipeline
+* Added link to [Linebeak](https://linebeak.com) in footer
+* Added link to [Buy Me A Coffee](https://www.buymeacoffee.com/riklewis) in settings dialog
+* Added action and global setting to show/hide carriage returns in record comparison dialog
+* Fixed affiliate link to [Krystal](https://www.comparetheproject.com/krystal/) in footer
+* Fixed tooltips on links not showing
+* Fixed long filenames overflowing file box and obscuring close button
+* Fixed file duplicate check stopping same file from being uploaded twice (removed check)
+* Changed 'Print everything' to 'Print change summary' and use settings to reduce output size
 
 ### v1.1 - New Features Added
 _19th February 2020_
@@ -21,3 +30,6 @@ _19th February 2020_
 * Added 'Print everything' action
 * Added 'Show/hide unchanged' action with setting to control default
 * Added 'Filter by entity' action with setting to control auto-clearing
+
+### v1.0 - First Release
+_4th February 2020_
