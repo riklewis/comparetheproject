@@ -11,6 +11,11 @@ If you want to support this project, consider downloading and installing [Brave 
 
 ## changelog
 
+### v1.4 - New Features and Fixes
+_28th February 2021_
+* Fixed cleanup of server files not always triggering
+* Added buttons to navigation between records in comparison dialog
+
 ### v1.3 - New Features and Fixes
 _31st January 2021_
 * Added buttons to swap left and right file selections
