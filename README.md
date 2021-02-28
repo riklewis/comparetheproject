@@ -11,6 +11,10 @@ If you want to support this project, consider downloading and installing [Brave 
 
 ## changelog
 
+### v1.3 - New Features and Fixes
+_31st January 2021_
+* Added buttons to swap left and right file selections
+
 ### v1.2 - New Features and Fixes
 _30th January 2021_
 * Updated dependencies in the build pipeline
