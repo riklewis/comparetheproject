@@ -7,9 +7,14 @@ To report a new issue or feature request, go here... [New issue](https://github.
 
 Your feedback is gratefully received.
 
-If you want to support this project, consider downloading and installing [Brave - the privacy focused browser](https://brave.com/com089). That referral link will earn me a little, but the recommendation is genuine - it's an awesome new browser.
+If you want to support this project, please consider [buying me a cup of green tea](https://www.buymeacoffee.com/riklewis).
 
 ## changelog
+
+### v1.5 - New Features and Fixes
+_21st January 2023_
+* Improved server memory efficiency of comparison process
+* Added progress bar to the "Processing" (unpack) part
 
 ### v1.4 - New Features and Fixes
 _28th February 2021_
