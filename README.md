@@ -11,6 +11,10 @@ If you want to support this project, please consider [buying me a cup of green t
 
 ## changelog
 
+### v1.7 - New Features and Fixes
+_21st June 2023_
+* Updated entity and field information to SITS v10.6
+
 ### v1.6 - New Features and Fixes
 _26th January 2023_
 * Updated entity and field information to SITS v10.5
